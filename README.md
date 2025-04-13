@@ -82,12 +82,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshot
-
-![screenshot](https://via.placeholder.com/800x400?text=PDF+QA+Bot+UI+Sample)
-
----
-
 ## 📜 License
 
 MIT License. See [LICENSE](LICENSE) for more details.
